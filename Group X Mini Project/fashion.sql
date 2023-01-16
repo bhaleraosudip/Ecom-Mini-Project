@@ -1,0 +1,1 @@
+CREATE TABLE fashion(productId int not null auto_increment, name varchar(255),  description varchar(255), price varchar(255), quantity varchar(255), primary key(productId));
